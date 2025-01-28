@@ -1,7 +1,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from disease_classification import logger
+from src.disease_classification import logger
 import json
 import joblib
 from ensure import ensure_annotations
