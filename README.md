@@ -61,13 +61,14 @@ dump of healthy chicken
 ![dump of healthy chicken](healthy.64.jpg)
 
 dump of Coccidiosis disease chicken
+
 ![dump of Coccidiosis disease chicken](cocci.8.jpg)
 
 ```
 used **Mlflow** to levrage experiment tracking
+```
 
 URL: [Click Here](https://dagshub.com/kapishashtankar10/chicken-disease-classification-.mlflow/#/compare-runs?runs=[%223f1849d0a33745bda8b5a908478549cf%22,%227e512acc51a94b6a82cd4f1cbadc105c%22,%220e7656a055584b96b80483cd20bc4198%22,%2223f2a7b08bfa4a769a70fc3d5bd2aca3%22,%2221a1a69b893a4e889c7180a8ec5e06d6%22]&experiments=[%220%22])
 
-```
 
 ![MLFLOW EXPERIMENTS](image-1.png)
