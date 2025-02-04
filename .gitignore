@@ -5,6 +5,10 @@ __pycache__/
 *$py.class
 
 artifacts/
+logs/
+.dvcignore
+.dvc/
+app.py.dvc
 
 # C extensions
 *.so
@@ -172,3 +176,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/app.py
