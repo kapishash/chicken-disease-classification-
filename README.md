@@ -1,7 +1,7 @@
 # chicken-disease-classification-
 ## A web app Can be used by poultry farm to check the health of chickens
 
-**Data Source:** [Kaggle Recipe for Rating Dataset](https://www.kaggle.com/datasets/allandclive/chicken-disease-1)
+**Data Source:** [Dataset](https://www.kaggle.com/datasets/allandclive/chicken-disease-1)
 
 ---
 
