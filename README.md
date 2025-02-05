@@ -17,6 +17,11 @@ and got 93% accuracy
 
 ---
 
+push image from docker hub: docker push kapishds/chicken_disease_classification_app:latest
+docker run -p 8080:8080 kapishds/chicken_disease_classification_app:latest
+
+---
+
 DagsHub: [Dagshub url](https://dagshub.com/kapishashtankar10/chicken-disease-classification-/experiments)
 
 # How to run?
@@ -30,11 +35,11 @@ https://github.com/kapishash/chicken-disease-classification-.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n classifier python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate classifier
 ```
 
 
